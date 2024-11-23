@@ -1,0 +1,15 @@
+
+{
+java:S2293%"YReplace the type specification in this constructor call with the diamond operator ("<>").(‰äâáüÿÿÿÿ8Æ˜µ€1
+{
+java:S2293)"YReplace the type specification in this constructor call with the diamond operator ("<>").(½¹ºÄÿÿÿÿÿ8Æ˜µ€1
+™
+java:S1130""wRemove the declaration of thrown exception 'java.lang.NoSuchFieldException', as it cannot be thrown from method's body.(ã”ËÑüÿÿÿÿ8Šã¼µ€1
+]
+java:S4684."@Replace this persistent entity with a simple POJO or DTO object.(¤Ğ€ô8ã¼µ€1
+]
+java:S46843"@Replace this persistent entity with a simple POJO or DTO object.(Ğê¬8’ã¼µ€1
+b
+java:S4684Q"@Replace this persistent entity with a simple POJO or DTO object.(Éóµ×úÿÿÿÿ8›ã¼µ€1
+™
+java:S1130Q"wRemove the declaration of thrown exception 'java.lang.NoSuchFieldException', as it cannot be thrown from method's body.(Éóµ×úÿÿÿÿ8œã¼µ€1

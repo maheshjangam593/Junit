@@ -1,0 +1,13 @@
+
+w
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "book".(ù–Ÿøÿÿÿÿ
+N
+java:S1854)"8Remove this useless assignment to local variable "book".(ì‹ß´
+>
+java:S1481&")Remove this unused "book" local variable.(Ö±ð[
+N
+java:S18548"8Remove this useless assignment to local variable "book".(ì‹ß´
+>
+java:S14812")Remove this unused "book" local variable.(Ö±ð[
+V
+java:S1126<"AReplace this if-then-else statement by a single return statement.(ëîê$
